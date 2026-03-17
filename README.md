@@ -1,3 +1,5 @@
+# this is not in "WIP", this hasn't literally even started. my dumbass thought that starting off with egui and rust wouldve been a good idea. will continue this once i finish the rust book.
+
 # YAWn
 <p>yet another wallpaper manager, made by me with rust and egui as a starter project to learn rust. It uses hyperctl.
 </p>
